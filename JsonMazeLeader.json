@@ -1,9 +1,1 @@
-{
-  "UserInfo": 
-  [
-   {
-  "UserId": "0",
-  "Time" : "90"
-   }
-  ]
-}
+ {"name":"John", "age":30, "car":"Toyota"}
